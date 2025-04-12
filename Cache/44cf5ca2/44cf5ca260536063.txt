@@ -1,0 +1,5 @@
+Текст виявлено
+SyncMaster EZ20
+nev/nvme1nip2: recovering Journal
+dew/nvme1n1p2: Clearing orphaned inode 3935266 (uid=1000, gid=1000, mode=010066
+3ew/nvme1n1p2: clean, 6004621/61022208 files, 201781127/244065536 blocks
