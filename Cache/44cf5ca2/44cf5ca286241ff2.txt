@@ -1,4 +1,0 @@
-Текст виявлено
-›Checking Media Presence.....•
-›Media Present.....•
-›Start PXE over IPv4 on MAC: А8-A1-59-66-95-66.
