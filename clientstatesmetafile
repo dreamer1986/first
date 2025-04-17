@@ -19,9 +19,9 @@
 	<key>deferSyncCount</key>
 	<integer>1</integer>
 	<key>journalSerialNumber</key>
-	<integer>27</integer>
+	<integer>30</integer>
 	<key>syncCount</key>
-	<integer>26</integer>
+	<integer>29</integer>
 	<key>version</key>
 	<integer>1</integer>
 </dict>
